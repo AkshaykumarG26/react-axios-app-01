@@ -1,0 +1,16 @@
+/** @format */
+
+.products-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  align-items: center;
+  margin: auto;
+}
+
+.image {
+  width: 150px;
+  padding: 20px;
+  align-items: center;
+}
+
+
